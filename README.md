@@ -44,3 +44,10 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan Latihan4
 
 
 ## ScreenShoot
+<img src = https://github.com/Alfinnnnn/LATIHAN4DPBO2022/blob/main/SS/2.png>
+<br>
+<img src = https://github.com/Alfinnnnn/LATIHAN4DPBO2022/blob/main/SS/3.png>
+<br>
+<img src = https://github.com/Alfinnnnn/LATIHAN4DPBO2022/blob/main/SS/4.png>
+<br>
+<img src = https://github.com/Alfinnnnn/LATIHAN4DPBO2022/blob/main/SS/5.png>
