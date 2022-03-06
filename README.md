@@ -20,7 +20,7 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan Latihan4
 
 <p> Ship dan airplane inheritance ke Vehicle. </p>
 <p> Job dan Driver inheritance ke Person </p>
-<br>
+<--------------------------------------------------------->
 <p>keterangan angka dalam desain</p>
 <p> Type </p>
 <ul> 
