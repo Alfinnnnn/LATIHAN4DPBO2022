@@ -7,25 +7,40 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan Latihan4
 		dispesifikasikan. Aamiin
     
 ## Desain
-<p> Program terdiri dari empat kelas yaitu: <br/> </p>
+<img src = https://github.com/Alfinnnnn/LATIHAN4DPBO2022/blob/main/SS/1.png>
+<p> Program terdiri dari enam kelas yaitu: <br/> </p>
 <ol> 
-	<li>Processor : berisi atribut nama dan price
-	<li>Disk      : berisi atribut type, capacity dan price
-	<li>Ram       : berisi atribut capcity dan harga
-	<li>PC        : Memuat kelas Processor, disk dan ram
+	<li>Vehicle   : Sebagai parent
+	<li>Ship      : Child dari vehicle
+	<li>Airplane  : Child dari vehicle
+	<li>Person    : Sebagai parent
+	<li>Job       : Child dari Person
+	<li>Driver    : Child dari person
 </ol>
 
-<p> Masing-masing kelas akan berisi data yang nantinya akan dimuat dalam kelas PC dan kemudian ditampilkan. Dengan kata lain PC -- composition (mempunyai) --> kelas Processor, disk dan ram.
+<p> Ship dan airplane inheritance ke Vehicle. </p>
+<p> Job dan Driver inheritance ke Person </p>
+<br>
+<p>keterangan angka dalam desain</p>
+<p> Type </p>
+<ul> 
+	<li>0  : Pesawat Barang
+	<li>1  : Pesawat Penumpang
+	<li>2  : Kapal Barang
+	<li>3  : Kapal Penumpang
+</ul>
+
+<p> Move </p>
+<ul> 
+	<li>0  : Berangkat
+	<li>1  : Tidak Berangkat
+</ul>
+
+<p> Sleep </p>
+<ul> 
+	<li>0  : Berangkat
+	<li>1  : Istirahat
+</ul>
+
 
 ## ScreenShoot
-java <br>
-<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/java.png >
-<br/>
-c++ <br>
-<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/c%2B%2B.png >
-<br/>
-php <br>
-<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/php.png >
-<br/>
-python <br>
-<img src = https://github.com/Alfinnnnn/LATIHAN3DPBO2022/blob/main/ss/python.png >
